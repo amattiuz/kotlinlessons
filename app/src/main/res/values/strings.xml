@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HabitTrainer</string>
+    <string name="begin_habit">Begin new habit...</string>
 </resources>
